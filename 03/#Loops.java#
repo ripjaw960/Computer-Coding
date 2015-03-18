@@ -1,0 +1,54 @@
+public class Loops {
+    public static void main(String[] args) {
+        for(int i = 0; i < 100; i++) {
+	    System.out.println(i);
+	    //i++ is equivalent to i = i + 1
+	}
+	int i = 0;
+	while(i < 100) {
+	    System.out.println(i);
+	    i++;
+	}
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+import java.util.Scanner;
+
+Inside of the main function:
+
+Scanner console = new Scanner(System.in);
+int choice = Integer.parseInt(console.next());
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
